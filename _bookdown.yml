@@ -1,0 +1,14 @@
+output_dir: docs
+delete_merged_file: true
+new_session: true
+
+language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabela '
+
+ui:
+  chapter_name: 'Capítulo '
+
+before_chapter_script: "util.R"
+book_filename: "PDF_seminario"
